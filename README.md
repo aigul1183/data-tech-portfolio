@@ -26,7 +26,7 @@
 6. **Дашборд и инструкция для пользователей**  
    Задача: визуализировать ключевые метрики и написать user guide.  
    Инструменты: Power BI, Matplotlib, Markdown.  
-   Ссылка:[[https://datalens.ru/](https://datalens.ru](https://datalens.ru/4uig8ztpfnlqn-passazhiry-titanika-vyzhivaemost))
+   Ссылка:[(https://datalens.ru/4uig8ztpfnlqn-passazhiry-titanika-vyzhivaemost](https://datalens.ru/4uig8ztpfnlqn-passazhiry-titanika-vyzhivaemost)
 
 7. **Описание процесса и методология**  
    Задача: зафиксировать шаги обработки данных для передачи другому аналитику.  

@@ -5,7 +5,7 @@
 1. **Практические кейсы**  
    Задача: анализ банковских счетов клиентов.  
    Инструменты:  PostgreSQL.  
-   Ссылка: [Задание_1.ipynb](Задание_1.ipynb.
+   Ссылка: [Задание_1.ipynb](Задание_1.ipynb).
    
 2. **Анализ продаж квартир по регионам России**   
    Инструменты:  Pandas, numpy, обработка пропусков.  
@@ -22,7 +22,7 @@
 5. **Дашборд и инструкция для пользователей**  
    Задача: визуализировать данные из датасета в Yandex DataLens.    
    Инструменты: Power BI.    
-   Ссылка:[(https://datalens.ru/4uig8ztpfnlqn-passazhiry-titanika-vyzhivaemost](https://datalens.ru/4uig8ztpfnlqn-passazhiry-titanika-vyzhivaemost)
+   Ссылка:[https://datalens.ru/4uig8ztpfnlqn-passazhiry-titanika-vyzhivaemost](https://datalens.ru/4uig8ztpfnlqn-passazhiry-titanika-vyzhivaemost)
 
 9. **Описание процесса и методология**  
    Задача: зафиксировать шаги обработки данных для передачи другому аналитику.  
